@@ -48,7 +48,6 @@ int main(){
     
     string s = "aabaabaa";
     string ptr = "aaba";
-
     // string s = "forxxorfxdofr";
     // string ptr = "for";
 
